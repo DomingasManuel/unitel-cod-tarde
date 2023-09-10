@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="Viewport"content="width=device-width initial-scale=1.0">
+        <title>Anselmo Ralph</title>
+    </head>
+    <body>
+        <main></main>
+        <article>
+            <div class="Sobre-artista">
+                <h1>Anselmo Ralph</h1>
+                <h3>POP,R&B</h3>
+            </div>
+            <div class="Obras do Artista">
+                <h4>seus ultimos albúns</h4>
+                <ol>
+                    <li><a title="ouvir o album" href="https:https://www.google.com/search?q=a+dor+do+cupido&sca_esv=564173800&ei=g-79ZMaTCvOE9u8Pkbqg-AU&gs_ssp=eJzj4tVP1zc0TDKPL8mxMLMwYPTiT1RIyS8CYoXk0oLMlHwAk04JpA&oq=a+dor&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWEgZG9yKgIIADIHEC4YigUYQzIHEAAYigUYQzIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMhYQLhiKBRhDGJcFGNwEGN4EGOAE2AEDSP9BUMoGWP0ncAJ4AZABBJgBmwWgAdkmqgEFNC04LjK4AQHIAQD4AQGoAhTCAgoQABhHGNYEGLADwgIFECEYoAHCAggQIRgWGB4YHcICHRAuGIoFGOUCGOUCGOoCGLQCGIoDGLcDGNQD2AEBwgIdEAAYigUY5QIY5QIY6gIYtAIYigMYtwMY1APYAQHCAhYQLhgDGI8BGOUCGOoCGLQCGIwD2AECwgIWEAAYAxiPARjlAhjqAhi0AhiMA9gBAsICCRAAGIoFGAoYQ8ICCxAuGIoFGLEDGIMBwgIEEAAYA8ICBBAuGAPCAggQLhiKBRixA8ICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHiAwQYACBBiAYBkAYIugYECAEYB7oGBggCEAEYCroGBggDEAEYFA&sclient=gws-wiz-serp"></a></li>
+                    <li><a title="ouvir o album" href="https:https://www.google.com/search?q=amor+%C3%A9+cego+anselmo+ralph&sca_esv=564173800&ei=v-79ZPvbDZb97_UP6KG6iAI&oq=amor+e+cego+an&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmFtb3IgZSBjZWdvIGFuKgIIADIGEAAYFhgeSPWaAVCRBFj-hAFwAngBkAEEmAGgBKABgT6qAQczLTguOS4yuAEByAEA-AEBqAIKwgIKEAAYRxjWBBiwA8ICChAuGIoFGLADGEPCAgoQABiKBRiwAxhDwgIHEC4YigUYQ8ICBRAAGIAEwgIHEAAYigUYQ8ICFhAuGIoFGEMYlwUY3AQY3gQY4ATYAQHCAhAQLhiKBRjqAhi0AhhD2AECwgIdEAAYigUY5QIY5QIY6gIYtAIYigMYtwMY1APYAQLCAhYQABgDGI8BGOUCGOoCGLQCGIwD2AEDwgIWEC4YAxiPARjlAhjqAhi0AhiMA9gBA8ICGRAAGAMYjwEY5QIY5QIY6gIYtAIYjAPYAQPCAhMQLhiKBRixAxiDARjHARjRAxhDwgIKEAAYigUYsQMYQ8ICDRAuGIoFGMcBGNEDGEPCAiIQLhiKBRixAxiDARjHARjRAxhDGJcFGNwEGN4EGOAE2AEBwgIFEC4YgATCAgsQLhiABBixAxiDAcICCxAuGIMBGLEDGIoFwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQHiAwQYACBBiAYBkAYEugYGCAEQARgUugYECAIYB7oGBAgDGAo&sclient=gws-wiz-serp"></a></li>
+                    <li><a title="ouvir album" href="https:https://www.google.com/search?q=momentos+anselmo+ralph&sca_esv=564173800&ei=LO_9ZK2IIJm69u8PsoSM-Ao&gs_ssp=eJzj4tVP1zc0zErLTilJSjI2YPQSy83PTc0ryS9WSMwrTs3JzVcoSswpyAAA_5wNkg&oq=momen&gs_lp=Egxnd3Mtd2l6LXNlcnAiBW1vbWVuKgIIADIHEC4YigUYQzIHEAAYigUYQzIFEAAYgAQyBxAAGIoFGEMyBxAAGIoFGEMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIWEC4YigUYQxiXBRjcBBjeBBjgBNgBAkjhPlD3BFj4KnACeAGQAQSYAZQEoAGPH6oBBzMtMy41LjG4AQHIAQD4AQGoAgrCAgoQABhHGNYEGLADwgIWEAAYAxiPARjlAhjqAhi0AhiMA9gBAcICFhAuGAMYjwEY5QIY6gIYtAIYjAPYAQHCAhkQABgDGI8BGOUCGOUCGOoCGLQCGIwD2AEBwgILEAAYigUYsQMYgwHCAg0QLhiKBRjHARjRAxhDwgIEEAAYA8ICBBAuGAPCAgsQLhiKBRixAxiDAcICCxAuGIAEGLEDGIMBwgIFEC4YgATCAg0QLhiKBRixAxiDARhD4gMEGAAgQYgGAZAGCLoGBAgBGAq6BgYIAhABGBQ&sclient=gws-wiz-serp"></a></li>
+
+                </ol>
+            </div>
+            <div class="medias">
+                <p>Video clipe de uma das suas musicas mais tocadas,com o tema:<b>Não me toca</b></p>
+                <div class="videos">
+                    <video src="./assets/videos/Anselmo-Ralph-não-me-toca.mp4 "type="video/mp4"preload="metadata"controls width="50%" height="50%"></video>
+                </div>
+                <br>
+                <div class="audios">
+                    <p>Minha música favorita</p>
+                    <audio src="./assets/audio/Anselmo-Ralph-como-doi.mp3" type="audio/mp3"controls preload="metadata"></audio>
+                    <p><Strong>Como doi</Strong>Anselmo Ralph</p>
+                </div>
+            </div>
+        </article>
+    </body>
+</html>
+        
+        
